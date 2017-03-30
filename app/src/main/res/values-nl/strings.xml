@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SQL quiz</string>
+    <string name="q1">Wat betekent de afkorting SQL?</string>
+    <string name="q3">Wat zijn geldige opties om een primary key te definiëren die automatisch wordt gevuld?</string>
+    <string name="submitAnswer">Verzenden</string>
+    <string name="finishQuiz">Naar resultaat</string>
+    <string name="success">Gefeliciteerd!\nJouw antwoord is goed.</string>
+    <string name="fail">Helaas!\nJouw antwoord is niet goed.</string>
+    <string name="finalscore">Jouw score is: %1$d van 8</string>
+</resources>

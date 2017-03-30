@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQL quiz</string>
+    <string name="q1">What does SQL stand for?</string>
+    <string name="q3">What are valid options to create a primary key that is added automatically?</string>
+    <string name="submitAnswer">Submit</string>
+    <string name="finishQuiz">Get results</string>
+    <string name="success">Congratulations!\nYour answer is correct.</string>
+    <string name="fail">Sorry!\nYour answer is not correct.</string>
+    <string name="finalscore">Your final score is %1$d from 8 </string>
+</resources>
